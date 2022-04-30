@@ -62,6 +62,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
+- [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
 
@@ -81,9 +82,17 @@ This package assumes there is a MongoDB server running on localhost:27017. If yo
 
 To access the app after starting the server, go to http://localhost:3001 in your browser.
 
+![](assets/)
+
 ## Testing
 
 Deployed App: https://pwa-bt.herokuapp.com/
+
+![](assets/)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
