@@ -3,7 +3,6 @@ const FILES_TO_CACHE = [
     "./index.html",
     "./css/styles.css",
     "./js/index.js",
-    "https://cdn.jsdelivr.net/npm/chart.js@2.8.0",
     "./js/db.js",
     "./icons/icon-72x72.png",
     "./icons/icon-96x96.png",
@@ -14,6 +13,7 @@ const FILES_TO_CACHE = [
     "./icons/icon-384x384.png",
     "./icons/icon-512x512.png",
     "manifest.json",
+    "./api/transaction",
 ];
 
 
