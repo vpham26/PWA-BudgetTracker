@@ -1,6 +1,6 @@
 {
     “name”: “Budget Tracker”,
-    “short_name”: “BudgetTrack”,
+    “short_name”: “Budget Tracker”,
     “description”: “Budget Tracker is ann app that allows you to track your expences and income”,
     “start_url”: “/”,
     “display”: “standalone”,
@@ -48,4 +48,4 @@
         “sizes”: “512x512”
       }
     ]
-}
+  }
