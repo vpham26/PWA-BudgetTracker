@@ -1,6 +1,6 @@
 {
-    "name": "Progressive Budget PWA",
-    "short-Name": "Budget PWA",
+    "name": "PWA-BudgetTracker",
+    "short-Name": "PWA-BudgetTracker",
     "start_url": "/",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
