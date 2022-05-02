@@ -34,7 +34,7 @@
   
 💻 Below is a video of the application:
   
-![pwa-budget-tracker](./assets/)
+![pwa-budget-tracker](./assets/demo.gif)
 
 ## User Story
 
@@ -82,13 +82,11 @@ This package assumes there is a MongoDB server running on localhost:27017. If yo
 
 To access the app after starting the server, go to http://localhost:3001 in your browser.
 
-![Image](assets/)
-
 ## Testing
 
 Deployed App: https://pwa-bt.herokuapp.com/
 
-![App-Demo](assets/)
+![App-Demo](assets/demo.png)
 
 ## License
 
